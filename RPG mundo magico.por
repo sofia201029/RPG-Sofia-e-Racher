@@ -11,7 +11,7 @@ programa {
     leia(botao)
     escreva("a porta se abriu siga em frente e entre na cozinha, para isso aperte o botao reto:")
     leia(botao)
-    escreva("infelizmente o usuario encontra guardas da realeza levando sua mae, \nlogo o usuario vai ate os guardas tentando resgatar sua mae mais infeliz, os guardas se irritam e batem nele,\n  como ele era muito novo e fraco, nao pode ajudar, depois um velho amigo de seu pai aparece determinado a ajudar o usuario a melhorar suas abilidades durante um ano o usuario treina. agora mais alto e mais forte vai se infiltrar no castelo da realeza, \n agora o usuario tem a missao de colher cinco informaçoes importantes dos imperadores do castelo,\n para isso ande pelos aposentos do imperadores um, apertando os botoes de direçao:  ")
+    escreva("infelizmente o usuario encontra guardas da realeza levando sua mae, \nlogo o usuario vai ate os guardas tentando resgatar sua mae mais infeliz, os guardas se irritam e batem nele,\n  como ele era muito novo e fraco, nao pode ajudar, depois um velho amigo de seu pai aparece determinado a ajudar o usuario a melhorar suas abilidades durante um ano o usuario treina. agora mais alto e mais forte vai se infiltrar no castelo da realeza, \nagora o usuario tem a missao de colher cinco informaçoes importantes dos imperadores do castelo,\npara isso ande pelos aposentos do imperadores um, apertando os botoes de direçao:  ")
     leia(botoesdedirecao)
     escreva("agora o usuario pode controlar, para isso aperte em start: ")
     leia(start)
