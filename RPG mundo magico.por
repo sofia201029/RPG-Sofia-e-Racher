@@ -4,7 +4,9 @@ programa {
     escreva("seu nome de usuario?: ")
     leia(nome)
     escreva("a vida do usuario, pobre desde a infancia, pai morreu na guerra, ajuda a mae em uma pequena padaria,\n um dia guardas do reino sequestram sua mae, \n derrotado ele treina por um ano com um amigo de seu pai para se infiltrar e resgatar sua mae")
+
     escreva("como intem ele tem o dom de fazer pocoes magicas")
+
     escreva("aperte o botao a) para o usuario acordar: ")
     leia(botao)
     escreva("usuario acorda, agora vá ate a porta, para isso aperte o botao b):")
